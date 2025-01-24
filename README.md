@@ -1,3 +1,3 @@
-#Hi professor
+# Hi professor
 
-###Here is my Net Salary Calculator Homework 2 file
+### Here is my Net Salary Calculator Homework 2 file
